@@ -1,0 +1,19 @@
+{
+  "name": "uptally",
+  "version": "1.0.0",
+  "description": "An interface between Blackmagic Atem switchers and TSL3.1 Tally clients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gazzer82/uptally.git"
+  },
+  "author": "Gareth Jeanne - Universal Pixels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gazzer82/uptally/issues"
+  },
+  "homepage": "https://github.com/gazzer82/uptally#readme"
+}
